@@ -12,3 +12,6 @@ Thumbs.db
 
 # Notes
 Notes.txt
+
+# Streamlit cache
+.streamlit/

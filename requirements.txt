@@ -1,3 +1,7 @@
 requests
 matplotlib
 seaborn
+pandas
+numpy
+python-dotenv
+streamlit

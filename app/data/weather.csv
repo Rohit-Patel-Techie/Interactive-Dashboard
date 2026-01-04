@@ -1,9 +1,31 @@
-city,temperature,humidity,condition,timestamp
-Madhya Pradesh,16.5,55,clear sky,2026-01-02 22:21:53.466343
-Madhya Pradesh,16.5,55,clear sky,2026-01-02 22:22:03.730292
-Madhya Pradesh,16.5,55,clear sky,2026-01-02 22:22:14.368345
-Madhya Pradesh,16.5,55,clear sky,2026-01-02 22:24:43.964305
-Madhya Pradesh,16.5,55,clear sky,2026-01-02 22:25:12.575847
-Delhi,13.05,76,mist,2026-01-02 22:26:49.898833
-Himachal Pradesh,4.71,51,clear sky,2026-01-02 22:27:11.409808
-Jammu,10.82,55,clear sky,2026-01-02 22:28:12.229358
+city,temperature,humidity,condition,icon,timestamp
+Delhi,11.05,87,mist,50n,2026-01-04 23:10:02.216509
+Mumbai,27.99,44,smoke,50n,2026-01-04 23:10:11.480387
+Jammu,10.19,54,broken clouds,04n,2026-01-04 23:10:22.880667
+Himachal Pradesh,4.02,58,clear sky,01n,2026-01-04 23:10:29.116509
+Uttarakhand,4.54,63,clear sky,01n,2026-01-04 23:10:40.414226
+Madhya Pradesh,12.08,43,clear sky,01n,2026-01-04 23:10:48.125890
+Madhya Pradesh,12.08,43,clear sky,01n,2026-01-04 23:11:04.928589
+Delhi,11.05,87,mist,50n,2026-01-04 23:11:11.319538
+Himachal Pradesh,4.02,58,clear sky,01n,2026-01-04 23:11:14.224724
+Madhya Pradesh,12.08,43,clear sky,01n,2026-01-04 23:11:16.748426
+Mumbai,27.99,44,smoke,50n,2026-01-04 23:11:19.282104
+Uttarakhand,4.54,63,clear sky,01n,2026-01-04 23:11:22.051823
+Delhi,11.05,87,mist,50n,2026-01-04 23:11:24.285849
+Himachal Pradesh,4.02,58,clear sky,01n,2026-01-04 23:11:26.776429
+Madhya Pradesh,12.08,43,clear sky,01n,2026-01-04 23:11:28.994298
+Mumbai,27.99,44,smoke,50n,2026-01-04 23:11:31.244747
+Mumbai,27.99,44,smoke,50n,2026-01-04 23:11:35.850250
+Uttarakhand,4.54,63,clear sky,01n,2026-01-04 23:11:38.813559
+Himachal Pradesh,4.02,58,clear sky,01n,2026-01-04 23:11:41.985080
+Delhi,11.05,87,mist,50n,2026-01-04 23:11:44.163305
+Madhya Pradesh,12.08,43,clear sky,01n,2026-01-04 23:11:46.314389
+Mumbai,27.99,44,smoke,50n,2026-01-04 23:11:48.617034
+Uttarakhand,4.54,63,clear sky,01n,2026-01-04 23:11:51.074869
+Delhi,11.05,87,mist,50n,2026-01-04 23:13:05.116282
+Himachal Pradesh,4.02,58,clear sky,01n,2026-01-04 23:24:01.320030
+Madhya Pradesh,12.08,43,clear sky,01n,2026-01-04 23:25:54.499768
+Madhya Pradesh,12.08,43,clear sky,01n,2026-01-04 23:26:07.738817
+Jammu,10.19,54,broken clouds,04n,2026-01-04 23:26:14.056403
+Mumbai,26.99,47,smoke,50n,2026-01-04 23:26:22.287202
+Delhi,11.05,87,mist,50n,2026-01-04 23:26:27.816052

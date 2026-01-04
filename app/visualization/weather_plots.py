@@ -1,8 +1,10 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+#Illustration For checking our API Processed data For visualization
+#Learning Purpose Only
 def get_weather_data_from_main(df):
-    print(df)
+    # print(df)
     #plot Temperature
     plt.figure(figsize = (6,4))
     sns.barplot(x = "city", y = "temperature", data = df)

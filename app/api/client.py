@@ -1,11 +1,10 @@
 """ Client Module for interacting with the weather API.
     Handle API requests, responses,  and error management.
 """
-
 import requests
 from dotenv import load_dotenv
 import os
-from api.config import(BASE_URL, WEATHER_ENDPOINT , DEFAULT_PARAMS , REQUEST_TIMEOUT)
+from .config import (BASE_URL, WEATHER_ENDPOINT , DEFAULT_PARAMS , REQUEST_TIMEOUT)
 
 load_dotenv()
 
@@ -41,6 +40,9 @@ def get_weather_by_city(city : str) -> dict :
     
     except requests.exceptions.RequestException as error : 
         raise RuntimeError(f"Weather API request failed : {error}")
+    
+def Main_API():
+    return API_KEY
 
 
 
